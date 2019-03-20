@@ -1,7 +1,10 @@
 .shows {
   float: right;
-  background-color: black;
-  color: white;
+  background-color: blue;
+  color: yellow;
+  padding: 10px;
+  border:  10px solid red;
+  margin: 30px;
 }
 h1 {
   font-weight: bold;
